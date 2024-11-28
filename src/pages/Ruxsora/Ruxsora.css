@@ -1,0 +1,27 @@
+
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color:  #01579b;
+    
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+nav ul li{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+   
+}
+
+
+
+
